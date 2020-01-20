@@ -1,4 +1,6 @@
 // autofill for file names as user enters will be added using the inquirer package
+#!/usr/bin/env node --harmony
+
 const 
   inquirer = require('inquirer');
 
