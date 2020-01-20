@@ -1,7 +1,9 @@
+// autofill for file names as user enters will be added using the inquirer package
 const 
   inquirer = require('inquirer');
-  fs = require('fs');
 
+  fs = require('fs');
+// prompt will be changed to a number:value pair instead of string
 inquirer.prompt([
     {
       type:'list',
