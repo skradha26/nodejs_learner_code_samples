@@ -1,4 +1,7 @@
-# nodejs_learner_code_samples
+# nodejs_learner_code_samples 
+
+Reference: Node.js the Right Way by Jim R Wilson
+
 nodejs learner code samples
 
 1. Asynchronous File System Operations Code
@@ -11,6 +14,6 @@ nodejs learner code samples
         e) Copy File
    
    All operations are preceeded by a check for permissions. It is checked whether the current user has permission
-   to perform the operation. 
+   to perform the operation. 'Inquirer' npm package is used to provide a basic interactive command line interface.
    
    
