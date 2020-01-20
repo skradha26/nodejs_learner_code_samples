@@ -10,7 +10,7 @@ nodejs learner code samples
         d) Delete File
         e) Copy File
    
-   All operations are preceded by a check for permissions. It is checked whether the current user has permission
+   All operations are preceeded by a check for permissions. It is checked whether the current user has permission
    to perform the operation. 
    
    
