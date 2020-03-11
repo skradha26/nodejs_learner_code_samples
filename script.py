@@ -5,7 +5,7 @@ import os
 import sys
 
 '''
-Script follows the steps in Part 1 of https://github.com/crcresearch/evm-fabric-setup
+Script follows the steps in Part 1 of https://github.com/crcresearch/evm-fabric-setup till step "Get Fabric Samples and download Fabric images"
 '''
 
 def dockertestfunc():
