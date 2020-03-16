@@ -30,7 +30,7 @@ def dockertestfunc():
 def corefunc():
     print("Checking Go path..")
     output = str(os.system("echo $PATH | grep -q \"/Users/sradha/.go\" && echo \"go path exists\""))
-    if output != "found it":
+    if output != "go path exists":
         home = os.getenv("HOME")
         gopath = home + "/.go"
         print("Path to GO folder", gopath)
